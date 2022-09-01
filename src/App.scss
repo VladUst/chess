@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.app{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.board{
+    display: flex;
+    flex-wrap: wrap;
+    width: calc(5vw * 8);
+    height: calc(5vw * 8);
+}
+
+.cell{
+    width: 5vw;
+    height: 5vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    &_black{
+        background-color: rgba(122, 126, 167, 0.69);
+    }
+    &_white{
+        background-color: beige;
+    }
+}
