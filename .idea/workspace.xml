@@ -5,24 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="931848c9-3be8-44a3-87ec-d41ca1c41be7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/BoardComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/CellComponent.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Board.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Cell.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Colors.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/Player.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/models/figures/Figure.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.tsx" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/figures/Bishop.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/figures/Horse.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/figures/King.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/figures/Pawn.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/figures/Queen.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/models/figures/Rook.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/reportWebVitals.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BoardComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BoardComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/CellComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/CellComponent.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Board.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Board.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/models/Cell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Cell.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1662044250506</updated>
       <workItem from="1662044251833" duration="1336000" />
-      <workItem from="1662045611588" duration="4329000" />
+      <workItem from="1662045611588" duration="5203000" />
+      <workItem from="1662213193789" duration="7635000" />
     </task>
     <servers />
   </component>

@@ -24,10 +24,26 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    img{
+        width: 4vw;
+        height: 4vw;
+        position: relative;
+    }
     &_black{
         background-color: rgba(122, 126, 167, 0.69);
     }
     &_white{
         background-color: beige;
     }
+}
+
+.selected{
+    background-color: brown;
+}
+
+.available{
+    height: 2vw;
+    width: 2vw;
+    border-radius: 50%;
+    background-color: #55da55;
 }
