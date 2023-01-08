@@ -5,22 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="931848c9-3be8-44a3-87ec-d41ca1c41be7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/LostFigures.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/Timer.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BoardComponent.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BoardComponent.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Board.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Board.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Cell.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Cell.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Player.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/Player.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/figures/Bishop.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/Bishop.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/figures/Figure.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/Figure.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/figures/Horse.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/Horse.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/models/figures/King.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/King.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/figures/Pawn.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/Pawn.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/figures/Queen.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/Queen.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/figures/Rook.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/models/figures/Rook.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,19 +29,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/node_modules/sass/sass.js" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="ts.external.directory.path" value="D:\PROJECTS\WebProjects\ReactProjects\chess\node_modules\typescript\lib" />
-    <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/PROJECTS/WebProjects/ReactPractise/chess",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "D:\\PROJECTS\\WebProjects\\ReactPractise\\chess\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -66,6 +56,10 @@
       <workItem from="1662045611588" duration="5203000" />
       <workItem from="1662213193789" duration="7635000" />
       <workItem from="1662282961466" duration="10143000" />
+      <workItem from="1662370330185" duration="3908000" />
+      <workItem from="1664699698350" duration="50000" />
+      <workItem from="1666062596872" duration="31000" />
+      <workItem from="1673191433686" duration="6375000" />
     </task>
     <servers />
   </component>
