@@ -1,2 +1,2 @@
 # Chess game
-OOP styled chess game using React + TS.
+OOP styled [chess game](https://vladust.github.io/chess/) using React + TS.
